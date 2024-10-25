@@ -1,3 +1,4 @@
+## Binary Classification on Balanced and Imbalanced Datasets
 Two different binary classification tasks that I've done at my internship.
 One of them was designed for a balanced dataset and one was for an imbalanced dataset.
 Obviously I had to delete any private information related to datasets due to it's being company's private data.
